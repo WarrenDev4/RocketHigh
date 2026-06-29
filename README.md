@@ -1,2 +1,2 @@
-<img width="1332" height="540" alt="RocketHigh_Logo_Black_Text" src="https://github.com/user-attachments/assets/b186899c-ed07-4756-9c06-00bd8e725f7d" />
+<img width="1332" height="540" alt="RocketHigh_Logo_Black_Text" src="https://github.com/user-attachments/assets/129d27a6-177a-4c94-a654-69fc970f54da" />
 RocketHigh is an upcoming AI-powered business mobile app designed to help freelancers, small businesses, startups, and enterprises work smarter and grow faster. The platform will provide AI-generated proposals, invoices, contracts, client emails, and business insights — turning hours of admin work into seconds.
