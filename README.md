@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
@@ -157,3 +158,7 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters)
 - [Configuration Options](https://turborepo.dev/docs/reference/configuration)
 - [CLI Usage](https://turborepo.dev/docs/reference/command-line-reference)
+=======
+# RocketHigh
+RocketHigh is an upcoming AI-powered business mobile app designed to help freelancers, small businesses, startups, and enterprises work smarter and grow faster. The platform will provide AI-generated proposals, invoices, contracts, client emails, and business insights — turning hours of admin work into seconds.
+>>>>>>> 45e597ea43651110c9534f53d2d6d823b720b89c
