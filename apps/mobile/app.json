@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "RocketHigh",
+    "slug": "rockethigh",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/RocketHigh App Logo.png",
     "userInterfaceStyle": "light",
+    "scheme": "rockethigh",
     "ios": {
       "supportsTablet": true
     },
@@ -20,6 +21,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen",
+      "expo-video"
+    ]
   }
 }
